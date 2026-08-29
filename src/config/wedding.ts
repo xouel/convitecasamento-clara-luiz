@@ -50,7 +50,7 @@ export const weddingConfig: WeddingConfig = {
       line1: "17 DE OUTUBRO",
       line2: "DE 2026",
     },
-    time: "14h",
+    time: "11h",
     venue: "Espaço Vilela",
     address: "[A CONFIRMAR — endereço completo do Espaço Vilela]",
   },
@@ -59,7 +59,7 @@ export const weddingConfig: WeddingConfig = {
     url: "https://wa.me/5532988759890",
   },
   gifts: {
-    url: "[A CONFIRMAR — link da lista de presentes]",
+    url: "https://listapresente-clara-luiz.vercel.app/",
   },
   location: {
     mapsUrl:
